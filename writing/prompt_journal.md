@@ -2,6 +2,11 @@
 
 TODO: try at least three variations and use the same final prompts for both Copilot and another LLM
 
+```
+a pyhton code that reflects Collaboration: 
+As Code that reflects teamwork and collaboration, perhaps through functions that interact or share data.
+```
+
 ## 2. Prompting Strategy
 
 TODO: What was your strategy with prompting. What worked and what didn't work? Did you employ a specific prompting technique (zero-, few-, many-shot, chaining, chain of thought, meta prompting)?
