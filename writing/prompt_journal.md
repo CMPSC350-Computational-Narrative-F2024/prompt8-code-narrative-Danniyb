@@ -9,8 +9,6 @@ As Code that reflects teamwork and collaboration, perhaps through functions that
 
 ## 2. Prompting Strategy
 
-TODO: What was your strategy with prompting. What worked and what didn't work? Did you employ a specific prompting technique (zero-, few-, many-shot, chaining, chain of thought, meta prompting)?
-
 I tired to implment a zero-shot prompt when implementing this I used a meta-prompting to continues prompt and describe the project at hand. the first prompt was the prompt above I ended up adding more details to insure i was getting a desired output 
 here is what I add to the exist prompt 
 
